@@ -17,6 +17,7 @@ docker build -t <your-image-name>:<your-tag> .
 ### Admitted vars
 
 > **USER:** Default username for RStudio environment.
+
 > **USER_PWD:** Default user password for RStudio environment.
 
 ### ¿Where is data stored?
